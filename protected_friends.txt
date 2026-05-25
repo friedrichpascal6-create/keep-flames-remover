@@ -1,0 +1,6 @@
+# Hier deine Freunde eintragen, die NICHT gelöscht werden sollen
+# Eine pro Zeile
+# Beispiel:
+# BestFriend1
+# BestFriend2
+# MyMom
